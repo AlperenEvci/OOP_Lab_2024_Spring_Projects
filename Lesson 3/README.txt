@@ -34,6 +34,10 @@ signature and algorithm is given as coded at the end of the document but fill ne
 code to get calculated values from method. When encrypt button is clicked, Encipher method is
 called and if password is encrypted, success parameter of method will be true, label parameter of
 method will be visualize “success“ as text message, encryptedMessage parameter will be
+
+
+
+
 Experiment 2 - ROT2 & Ceaser Cipher
 
 ROT2: Its key is simple: each letter of the alphabet is replaced by the next 2 letters, i.e. A is 
